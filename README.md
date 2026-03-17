@@ -29,11 +29,7 @@ Program to implement Principal Component Analysis (PCA) for dimensionality reduc
 Developed by:RAGHUL.S
 RegisterNumber: 212225040325 
 */
-/*
-Program to implement Principal Component Analysis (PCA) for dimensionality reduction on the energy data.
-Developed by: Balamurugan S
-RegisterNumber:  212225240020
-*/
+
 
 # Import necessary libraries
 import pandas as pd
